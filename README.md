@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **javaScript,React,Flutter,Dart**
 
-- 👨‍💻 All of my projects are available at [https://zabihullahnooriwardak.github.io/Zabih-portfolio/](https://zabihullahnooriwardak.github.io/Zabih-portfolio/)
+- 👨‍💻 some of my best projects are available at [https://zabihullahnooriwardak.github.io/Zabih-portfolio/](https://zabihullahnooriwardak.github.io/Zabih-portfolio/)
 
 - 💬 Ask me about **javaScript,Dart,Flutter**
 
