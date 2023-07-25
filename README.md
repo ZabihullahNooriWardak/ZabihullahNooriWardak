@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **javaScript,React,Flutter,Dart**
+- 🌱 I’m currently learning **JavaScript,React,Flutter,Dart**
 
 - 👨‍💻 some of my best projects are available at [https://zabihullahnooriwardak.github.io/Zabih-portfolio/](https://zabihullahnooriwardak.github.io/Zabih-portfolio/)
 
-- 💬 Ask me about **javaScript,Dart,Flutter**
+- 💬 Ask me about **JavaScript,Dart,Flutter**
 
 - 📫 How to reach me **zabinoori712@gmail.com**
 
-- ⚡ Fun fact **sometimes while I am sleeping I find solution for bug and pieces of code that are not working**
+- ⚡ Fun fact **sometimes while I am sleeping I find solutions for bug and pieces of code that are not working**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
