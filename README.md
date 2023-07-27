@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zabih</h1>
+<h1 align="center">Hi there👋, I'm Zabih Noori</h1>
 <h3 align="center">A passionate Front-End developer from Afghanistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zabihullahnooriwardak&label=Profile%20views&color=0e75b6&style=flat" alt="zabihullahnooriwardak" /> </p>
