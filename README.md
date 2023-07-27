@@ -3,12 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zabihullahnooriwardak&label=Profile%20views&color=0e75b6&style=flat" alt="zabihullahnooriwardak" /> </p>
 
-<p align="center"> 
-<a href="https://twitter.com/](https://twitter.com/ZabiNoo31954752" target="_blank"> 
-Twitter
-  </a> 
-</p>
-
 <div align="center">
   <p> 🌱 I’m currently learning <strong>JavaScript, React, Flutter, and Dart</strong></p>
   <p> 🌐 You can see my portfolio through <a href="https://zabihullahnooriwardak.github.io/Zabih-portfolio/" target="_blank">here</a></p>
