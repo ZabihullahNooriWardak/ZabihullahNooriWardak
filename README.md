@@ -4,8 +4,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zabihullahnooriwardak&label=Profile%20views&color=0e75b6&style=flat" alt="zabihullahnooriwardak" /> </p>
 
 <p align="center"> 
-  <a href="https://twitter.com/" target="_blank"> 
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATYAAACiCAMAAAD84hF6AAAAYFBMVEUdofL///8AnfIAm/EVn/IfovJJsPQLnvLS6/yY0PjN6Pzj8/2HyPfy+v7q9v5guPXb7/34/f+94fuo1/lHr/RQs/R/xPep2vqSzfg7rPRmuvVuvva24PohpfOz3Pqj1PlIsJesAAACfUlEQVR4nO3ci3KiMBiGYUj+EAGVg0CFlnr/d1nRoiChsLMzqzt9n3HaMdUav8mR1HrGW8f038Tc7pnRj5d+kxnfWfXCrgeZxUc4n2NM/xaMmIVnmb6CjtcyK94qAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4eaK0Ot/k2fX4r4gKwihNo7Dsg7PPrdBLmctClRv/2ybRXYGq3tS/rNkrq9+0s1wf/YFQ2zqM/Yb+eqVCP3Q1oXP5SBSfv+Q0tm867prSpNi++1OxWOGfznXEdHkcJq3I7qapRV69/WifUcvXU18TMeOJwVbT1HYfqe8XDG4XxTWTfTLqqGozja3TMLhdSNsn8tmqQamjj5LagLoFlIXtbT9QuELbl6TWU5+D0etQaCtddIErNlK7k3IUTXpKWqV1m7liYzq40/lDOlman46usY3YBpS3dw7/U/Wzq/pCykq18brYWlpbTwI/y0+ukWxi597y/0rXzdUqG2K70+na2KYb11/MbtfG9s613TvxVk4IGdc+hmyyLraIPjqiHBeJHCr66JhqVixAMsOq7YH2Tos7BebRR/JeNduldQg7q0euK+A0tmV6cQ2yY/UxJcHSnFDR2ByU61R0gGNlN5X8NJXuOVOeYU04G1xWsNKdI0rKyn06mtBF54nyDs7UOBydJ8psnUfKO475HETON6V1MLO9SmvGtSmTlEXZHPO56eBk2cC7JDN/I3MRBRwfuIlNopnQNommqc0SHRymfXR/CAjtZ2IlOOZxvy/N4vxYCIPaCt3nNkxdJk1S1oYPcPyJbiki3YLk2RUBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/6QvGZBS5dd28agAAAABJRU5ErkJggg==" alt="Twitter" /> 
+<a href="[https://twitter.com/](https://twitter.com/ZabiNoo31954752)" target="_blank"> 
+Twitter
   </a> 
 </p>
 
