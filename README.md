@@ -44,7 +44,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zabihullahnooriwardak&show_icons=true&locale=en" alt="GitHub Stats" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zabihullahnooriwardak" alt="GitHub Streak" />
-</div>
