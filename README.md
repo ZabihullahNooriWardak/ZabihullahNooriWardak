@@ -18,11 +18,6 @@
   <a href="https://www.youtube.com/channel/UCmfd3A0EriTYeY_YaV__Ygg" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Random Dev Quote:</h3>
-<p align="left">
-<img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide_border=false">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -61,3 +56,8 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=zabihullahnooriwardak&show_icons=true&locale=en" alt="GitHub Stats" />
 </div>
+
+<h3 align="left">Random Dev Quote:</h3>
+<p align="left">
+<img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide_border=false">
+</p>
