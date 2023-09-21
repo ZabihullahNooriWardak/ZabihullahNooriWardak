@@ -18,6 +18,13 @@
   <a href="https://www.youtube.com/channel/UCmfd3A0EriTYeY_YaV__Ygg" target="_blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Random Programming Quotes:</h3>
+<blockquote>
+  <p>"Programming is not about what you know, it's about what you can figure out." - Chris Pine</p>
+  <p>"The best error message is the one that never shows up." - Thomas Fuchs</p>
+  <p>"Code is like humor. When you have to explain it, it’s bad." - Cory House</p>
+</blockquote>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
