@@ -32,11 +32,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
   </a>
 </p>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zabihullahnooriwardak&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</div>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zabihullahnooriwardak&show_icons=true&locale=en" alt="GitHub Stats" />
-</div>
