@@ -1,8 +1,5 @@
 <h1 align="left">Hi there! 👋 I'm Zabihullah Noori</h1>
 <h3 align="left">A passionate Front-End Web and Mobile App Developer from Afghanistan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zabihullahnooriwardak&label=Profile%20views&color=0e75b6&style=flat" alt="zabihullahnooriwardak" /> </p>
-
 <div align="left">
   <p> 🌱 I’m currently studying at microverse</p>
   <p> 🌐 You can see my portfolio through <a href="https://zabihullahnooriwardak.github.io/Zabih-portfolio/" target="_blank">here</a></p>
