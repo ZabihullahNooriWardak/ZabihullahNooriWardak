@@ -5,5 +5,5 @@
   <p>📧 How to reach me: <strong>zabinoori712@gmail.com</strong></p>
   <p>🎮 My hobbies are watching YouTube, coding, reading books, and playing video games</p>
   <p>💡 Fun fact: <strong>Sometimes while I am sleeping, I find solutions for bugs and pieces of code that are not working</strong></p>
-  <p>📚 I’m constantly learning new programming languages to gain more knowledge in Software Development and web development.</p>
+  <p>📚 I’m constantly sharpening my problem solving skill through learning new tools and solving real world challanges.</p>
 </div>
